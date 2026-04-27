@@ -1,0 +1,66 @@
+/* Estilo general */
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightgray;
+}
+
+/* Títulos principales */
+h1 {
+    color: darkblue;
+    font-size: 30px;
+    font-family: Verdana, sans-serif;
+}
+
+/* Subtítulos */
+h2 {
+    color: skyblue;
+    font-size: 22px;
+}
+
+/* Párrafos */
+p {
+    color: black;
+    font-size: 16px;
+}
+
+/* Enlaces */
+a {
+    color: cadetblue;
+    font-size: 18px;
+    font-family: Tahoma, sans-serif;
+}
+
+/* Listas */
+ul {
+    color: rgb(27, 107, 228);
+    font-size: 16px;
+}
+
+ol {
+    color: rgb(27, 107, 228);
+    font-size: 16px;
+}
+
+/* Tabla */
+table {
+    color: black;
+    font-size: 16px;
+}
+
+th {
+    color: white;
+    background-color: gray;
+    font-size: 18px;
+}
+
+td {
+    color: black;
+    font-size: 16px;
+}
+
+/* Imágenes */
+
+img {
+    width: 300px;
+    height: auto;
+}
